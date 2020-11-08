@@ -10,7 +10,6 @@ _Caveat about IMDb's datasets: It seems like the files were extracted in 2019 ba
 
 ## Navigation
 
--------------------
 You can find the following files/folders in my repository:
 
 ### `Film Industry Analysis.ipynb`
@@ -35,7 +34,6 @@ You can find the following files/folders in my repository:
 
 ## Analysis Approach
 
--------------------
 The datasets provide a lot of useful information. However, to develop a strategy to enter the film industry, I'd like to find trends in successful movies, which means that first I need to define success.
 
 ### Definition of success and how to measure it
@@ -47,8 +45,6 @@ Consequently, I will measure success based on the **Number of Votes** and **Rati
 From my perspective, **Number of Votes** can be even more valuable because differently from a view where it's just one person watching a movie, a vote means that someone went to IMDb's website, created a profile/logged in, searched for the film and voted. Since we have all these steps to complete to vote, I'd say that votes are more meaningful.
 
 ## Questions
-
--------------------
 
 Below you can find the questions I raised during the project. I'll also add an explanation for why I think those are valid and important.
 
@@ -90,14 +86,13 @@ Below you can find the questions I raised during the project. I'll also add an e
 
 ## Conclusions
 
--------------------
 **1. The Film Industry is a competitive and growing market:** The supply of new movies is increasing over the years. The reason for that can be the following:
 
-- Movies have become cheaper to make over time.
+- Movies have become cheaper to make over time as technology became more accessible to anybody.
 - The market and customer base grew. So the demand for more content is growing.
 - People have access to the internet + Consumers are moving from Cable TV to On-Demand subscriptions.
 
-Those are all positive reasons for Microsoft to enter the Film Industry. The only problem is that competition has grown a lot, and Microsoft will compete with Apple, Netflix, Disney, and YouTube. Moreover, there's a lot of discussions on the subscription market's saturation, so their pricing will have to be competitive.
+Those are all positive reasons for Microsoft to enter the Film Industry. The only problem is that competition has grown a lot, and Microsoft will compete with Apple, Netflix, Disney, Amazon, and YouTube. Moreover, there's a lot of discussions on the subscription market's saturation, so their pricing will have to be competitive.
 
 **2. Documentary, Drama, and Comedy are the most popular genres in No. of Movies:** After analyzing movies in IMDb's database, it's possible to see significant numbers of `Documentaries`, `Drama` and `Comedy` movies. When looking at different combinations of genres, `Comedy + Drama` and `Comedy + Drama + Romance` have had the most No. of Movies over the last ten years. For Microsoft, these might be too saturated genres to enter but show a picture of the industry.
 
@@ -110,5 +105,4 @@ Therefore, a good strategy for Microsoft might be to enter this world and try to
 
 ## Final Thoughts
 
--------------------
 More could be done to gather more insights. For example, I'd like to see the number of Tickets Sold, viewers + demographics, and more information on which Platform/Studio created the movie. Moreover, understanding Microsoft's goals would also guide my analysis to relevant conclusions for them. For example, I don't know if they're trying to be profitable in this endeavor or if the goal is to enter this industry and then worry about profitability.
