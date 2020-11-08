@@ -12,7 +12,7 @@ _Caveat about IMDb's datasets: It seems like the files were extracted in 2019 ba
 
 You can find the following files/folders in my repository:
 
-### `Film Industry Analysis.ipynb`
+### [`Film Industry Analysis.ipynb`](https://github.com/renoneto/first_module_project/blob/main/Film%20Industry%20Analysis.ipynb)
 
 - **Content:** Main Jupyter Notebook with the whole analysis.
 
@@ -21,6 +21,10 @@ You can find the following files/folders in my repository:
   2. Exploring the available datasets, understanding what's available, and the structure/granularity/pitfalls of each dataset.
   3. Asking questions that will help Microsoft's team understand the industry, then answering them using datasets and developing recommendations based on my findings.
   4. Presenting results/conclusions through visualizations.
+
+### [`presentation.pdf`](https://github.com/renoneto/first_module_project/blob/main/presentation.pdf)
+
+- **Content:** Non-technical presentation to stakeholders talking about the approach and recommendations.
 
 ### `zippedData/unzippedData` folders
 
